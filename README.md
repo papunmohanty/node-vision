@@ -1,3 +1,6 @@
+# Postman Test
+[![Watch Pastman Test Execution](https://github.com/papunmohanty/node-vision/assets/videos/image_label.mp4)](https://github.com/papunmohanty/node-vision/assets/videos/image_label.mp4)
+
 # Node Vision
 
 This is a ExpressJS application that provides the framework on top of which you can implement multiple backends to detect labels in images.
